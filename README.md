@@ -1,2 +1,0 @@
-# Student
-Student management project
